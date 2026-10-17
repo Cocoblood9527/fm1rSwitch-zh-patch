@@ -1,0 +1,18 @@
+{
+  "version": "0.3.0",
+  "translation_sha256": "5599624f9f0eacfbf3e1c9f67d6932447ebd30e7409f043808db336dd58bd8c8",
+  "translation_rows": 8198,
+  "applied_rows": 7973,
+  "changed_game_rows": 5800,
+  "changes_from_previous_csv": 16,
+  "all_rows_match_latest_csv": true,
+  "new_glyphs": 318,
+  "output_sha256": "6cb57144dabecb3737e1505cddf6a17d632afaf9cb3f20487c52672407126680",
+  "windows_cli_exit_code": 0,
+  "environment": "macOS ARM64 / CrossOver Windows x64",
+  "native_windows_hardware_tested": false,
+  "core_python_bytecode_in_archive": false,
+  "plaintext_csv_in_release": false,
+  "real_nsz_and_nsp_generation_seconds": 94.4,
+  "unit_tests_passed": 10
+}
